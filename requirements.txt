@@ -1,0 +1,7 @@
+torch
+transformers>=4.50
+peft
+accelerate
+scikit-learn
+pandas
+numpy
